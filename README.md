@@ -14,7 +14,7 @@ This repository is dedicated to practicing Python programming across all topics.
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your_username/python-practice.git`
+1. Clone the repository: `git clone https://github.com/Giridhar800/Python.git`
 2. Navigate to the directory: `cd python-practice`
 3. Start practicing Python by exploring the exercises in each topic folder.
 
